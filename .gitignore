@@ -1,0 +1,15 @@
+bin
+exec/*
+lib/*
+obj/*
+tmp
+*.o
+*.a
+*.s
+exec
+a.out
+*.txt
+*.log
+.vscode
+test*
+.DS_Store
